@@ -432,3 +432,19 @@
 03/18/2017  10:03 PM    <DIR>          WindowsPowerShell
                0 File(s)              0 bytes
               48 Dir(s)  117,492,056,064 bytes free
+ Volume in drive C is OSDisk
+ Volume Serial Number is A0A6-2BF0
+
+ Directory of C:\Users\nigwes01\git\mbed-os-example-blinky
+
+09/19/2018  05:13 PM    <DIR>          .
+09/19/2018  05:13 PM    <DIR>          ..
+06/26/2018  11:27 AM                36 .gitignore
+06/26/2018  11:27 AM               180 main.cpp
+09/19/2018  02:01 PM                78 mbed-os.lib
+09/19/2018  05:13 PM               111 pushA.bat
+09/19/2018  05:14 PM                94 pushB.bat
+06/26/2018  11:27 AM             2,000 README.md
+09/20/2018  04:38 PM            21,440 testfile.txt
+               7 File(s)         23,939 bytes
+               2 Dir(s)  117,471,182,848 bytes free
