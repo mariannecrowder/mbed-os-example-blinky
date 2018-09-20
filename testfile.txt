@@ -377,3 +377,58 @@
 09/20/2018  04:32 PM            17,888 testfile.txt
                7 File(s)         20,387 bytes
                2 Dir(s)  117,483,253,760 bytes free
+ Volume in drive C is OSDisk
+ Volume Serial Number is A0A6-2BF0
+
+ Directory of C:\Program Files
+
+09/13/2018  04:30 PM    <DIR>          .
+09/13/2018  04:30 PM    <DIR>          ..
+05/25/2018  09:14 AM    <DIR>          7-Zip
+12/01/2017  01:46 PM    <DIR>          Amazon
+04/19/2018  01:52 PM    <DIR>          Application Verifier
+11/11/2017  09:42 AM    <DIR>          Beyond Compare 4
+09/03/2018  01:03 PM    <DIR>          Common Files
+02/23/2018  06:13 PM    <DIR>          curl-7.58.0-win64-mingw
+06/21/2018  09:06 AM    <DIR>          Cybereason ActiveProbe
+06/21/2018  09:09 AM    <DIR>          Cybereason Execution Prevention
+05/23/2018  02:48 PM    <DIR>          DIFX
+11/21/2017  02:02 PM    <DIR>          DisplayLink Core Software
+09/27/2017  10:39 AM    <DIR>          DS-5 v5.27.1
+10/24/2017  04:34 PM    <DIR>          Everything
+11/20/2017  04:16 PM    <DIR>          FileZilla FTP Client
+06/11/2018  02:34 PM    <DIR>          Git
+11/21/2017  01:58 PM    <DIR>          Intel
+05/18/2018  01:15 PM    <DIR>          Internet Explorer
+11/21/2017  03:18 PM    <DIR>          Java
+07/27/2017  04:52 PM    <DIR>          LAPS
+07/27/2017  04:32 PM    <DIR>          Lenovo
+09/13/2017  03:21 PM    <DIR>          mbed
+09/13/2018  04:35 PM    <DIR>          MbedStudio39
+08/24/2018  12:53 PM    <DIR>          Mercurial
+03/08/2018  03:16 PM    <DIR>          Mercurial-hide
+11/21/2017  01:59 PM    <DIR>          Microsoft
+07/27/2017  04:42 PM    <DIR>          Microsoft Office 15
+04/10/2017  02:48 PM    <DIR>          Microsoft Policy Platform
+07/27/2017  06:39 PM    <DIR>          Microsoft Silverlight
+04/19/2018  01:51 PM    <DIR>          Microsoft SQL Server
+08/20/2018  01:55 PM    <DIR>          Microsoft VS Code
+04/02/2018  08:33 PM    <DIR>          MongoDB
+11/21/2017  01:53 PM    <DIR>          MSBuild
+04/16/2018  03:44 PM    <SYMLINKD>     nodejs [C:\Users\nigwes01\AppData\Roaming\nvm\v8.10.0]
+09/12/2017  10:19 AM    <DIR>          PuTTY
+11/21/2017  01:58 PM    <DIR>          Realtek
+11/21/2017  01:53 PM    <DIR>          Reference Assemblies
+11/21/2017  01:58 PM    <DIR>          Synaptics
+06/22/2018  01:18 PM    <DIR>          Windows Defender
+06/22/2018  01:18 PM    <DIR>          Windows Defender Advanced Threat Protection
+12/01/2017  02:09 PM    <DIR>          Windows Mail
+06/22/2018  01:18 PM    <DIR>          Windows Media Player
+03/18/2017  10:03 PM    <DIR>          Windows Multimedia Platform
+03/18/2017  10:03 PM    <DIR>          Windows NT
+08/24/2018  01:55 PM    <DIR>          Windows Photo Viewer
+03/18/2017  10:03 PM    <DIR>          Windows Portable Devices
+03/18/2017  10:03 PM    <DIR>          Windows Security
+03/18/2017  10:03 PM    <DIR>          WindowsPowerShell
+               0 File(s)              0 bytes
+              48 Dir(s)  117,492,056,064 bytes free
